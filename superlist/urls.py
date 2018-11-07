@@ -21,4 +21,5 @@ urlpatterns = [
  #   path(r'^$','superlist.views.home,name='home'),
     url(r'^$',views.home_page),
     url(r'^admin/',admin.site.urls),
+    url(r'^lists/the-only-list-in-the-world/$',views.view_list)
 ]
