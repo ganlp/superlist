@@ -19,7 +19,7 @@ from lists import views
 
 urlpatterns = [
  #   path(r'^$','superlist.views.home,name='home'),
-    url(r'^$',views.home_page),
-    url(r'^admin/',admin.site.urls),
-    url(r'^lists/',include('lists.urls')),
+    url(r'^(\d+)/$',views.view_list),
+    url(r'^(\d+)/add_item$',views.add_item),
+    url(r'^new$',views.new_list,name='new_list'),
 ]
