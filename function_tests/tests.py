@@ -3,9 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 import sqlite3
-from django.test import LiveServerTestCase
+#from django.test import LiveServerTestCase
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 
-class NewVisitorTest(LiveServerTestCase):
+class NewVisitorTest(StaticLiveServerTestCase):
 	def setUp(self):
 		# conn=sqlite3.connect('./db.sqlite3')
 		# cursor=conn.cursor()
@@ -76,7 +77,7 @@ class NewVisitorTest(LiveServerTestCase):
 		self.assertAlmostEqual(
 			inputbox.location['x']+inputbox.size['width']/2,
 			512,
-			delta=5
+			delta=10
 		)
 
 
