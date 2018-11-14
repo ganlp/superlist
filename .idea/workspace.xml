@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a2e9a0e-a518-4d53-be5b-834677aa6322" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_tests/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlist/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlist/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="6a2e9a0e-a518-4d53-be5b-834677aa6322" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,10 +224,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="585" />
-    <option name="y" value="36" />
+    <option name="x" value="424" />
+    <option name="y" value="47" />
     <option name="width" value="1074" />
-    <option name="height" value="750" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -405,8 +401,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="585" y="36" width="1074" height="750" extended-state="0" />
-    <editor active="true" />
+    <frame x="195" y="18" width="1074" height="750" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2027027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
