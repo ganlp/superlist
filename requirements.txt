@@ -118,7 +118,7 @@ robotframework-requests==0.4.7
 robotframework-ride==1.5.2.1
 robotframework-selenium2library==1.5.0
 robotframework-seleniumlibrary==3.0.0b3
-rsa==3.4.2
+rsa==4.7
 Scrapy==1.5.0
 selenium==3.11.0
 service-identity==17.0.0
