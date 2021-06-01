@@ -134,7 +134,7 @@ Twisted==17.9.0
 unicodecsv==0.14.1
 unittest2==1.1.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 waiting==1.4.1
 webium==1.2.1
