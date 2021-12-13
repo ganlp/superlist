@@ -62,7 +62,7 @@ lettuce==0.2.23
 linecache2==1.0.0
 lml==0.0.2
 locust==0.8
-lxml==4.1.1
+lxml==4.6.5
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
