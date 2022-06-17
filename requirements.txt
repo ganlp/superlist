@@ -119,7 +119,7 @@ robotframework-ride==1.5.2.1
 robotframework-selenium2library==1.5.0
 robotframework-seleniumlibrary==3.0.0b3
 rsa==3.4.2
-Scrapy==1.5.0
+Scrapy==2.6.1
 selenium==3.11.0
 service-identity==17.0.0
 shellescape==3.4.1
